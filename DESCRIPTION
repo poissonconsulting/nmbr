@@ -18,11 +18,8 @@ Imports:
     mcmcr,
     nlist,
     plyr,
-    nimble,
     term,
-    timer,
-    universals,
-    utils
+    universals
 Suggests: 
     testthat (>= 3.0.0)
 Remotes:
