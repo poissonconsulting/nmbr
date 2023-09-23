@@ -1,4 +1,4 @@
-3#' Parameters for functions
+#' Parameters for functions
 #'
 #' Descriptions of the parameters for functions
 #'
