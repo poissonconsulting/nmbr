@@ -1,10 +1,24 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, echo = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "tools/README-"
+)
+```
+
+<!-- badges: start -->
+[![R-CMD-check](https://github.com/poissonconsulting/nmbr/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/poissonconsulting/nmbr/actions/workflows/R-CMD-check.yaml)
+<!-- badges: end -->
 
 # nmbr
 
-<!-- badges: start -->
-<!-- badges: end -->
-
-The goal of nmbr is to ...
+The goal of nmbr is to facilitate analyses using nimble.
 
 ## Installation
 
