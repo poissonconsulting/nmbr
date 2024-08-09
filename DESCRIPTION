@@ -9,7 +9,8 @@ Authors@R: c(
 Description: Facilitates analyses using nimble package. Part of the embr
     family of packages.
 License: MIT + file LICENSE
-URL: https://github.com/poissonconsulting/nmbr, https://poissonconsulting.github.io/nmbr/
+URL: https://github.com/poissonconsulting/nmbr,
+    https://poissonconsulting.github.io/nmbr/
 BugReports: https://github.com/poissonconsulting/nmbr/issues
 Depends:
     R (>= 4.1)
@@ -25,8 +26,8 @@ Imports:
 Suggests: 
     testthat (>= 3.0.0)
 Remotes:
-    poissonconsulting/timer,
-    poissonconsulting/embr
+    poissonconsulting/embr,
+    poissonconsulting/timer
 Config/testthat/edition: 3
 Encoding: UTF-8
 LazyData: true

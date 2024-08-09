@@ -34,3 +34,10 @@ This is a basic example which shows you how to solve a common problem:
 library(nmbr)
 ## basic example code
 ```
+
+## Code of Conduct
+
+Please note that the nmbr project is released with a [Contributor Code
+of
+Conduct](https://poissonconsulting.github.io/nmbr/CODE_OF_CONDUCT.html).
+By contributing to this project, you agree to abide by its terms.
