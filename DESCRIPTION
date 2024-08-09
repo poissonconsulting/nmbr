@@ -9,7 +9,7 @@ Authors@R: c(
 Description: Facilitates analyses using nimble package. Part of the embr
     family of packages.
 License: MIT + file LICENSE
-URL: https://github.com/poissonconsulting/nmbr
+URL: https://github.com/poissonconsulting/nmbr, https://poissonconsulting.github.io/nmbr/
 BugReports: https://github.com/poissonconsulting/nmbr/issues
 Depends:
     R (>= 4.1)
