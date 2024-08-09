@@ -12,6 +12,7 @@ Facilitates analyses using nimble package. Part of the embr family of packages.
 Useful links:
 \itemize{
   \item \url{https://github.com/poissonconsulting/nmbr}
+  \item \url{https://poissonconsulting.github.io/nmbr/}
   \item Report bugs at \url{https://github.com/poissonconsulting/nmbr/issues}
 }
 
