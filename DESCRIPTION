@@ -1,9 +1,11 @@
 Package: nmbr
 Title: Analyses using nimble
 Version: 0.0.0.9000
-Authors@R: 
+Authors@R: c(
     person("Joe", "Thorley", , "joe@pissonconsulting.ca", role = c("aut", "cre"),
-           comment = c(ORCID = "0000-0002-7683-4592"))
+           comment = c(ORCID = "0000-0002-7683-4592")),
+    person("Poisson Consulting", role = c("fnd", "cph"))
+  )
 Description: Facilitates analyses using nimble package. Part of the embr
     family of packages.
 License: MIT + file LICENSE
