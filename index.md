@@ -13,6 +13,7 @@ To install the latest development version from
 [r-universe](https://poissonconsulting.r-universe.dev/nmbr).
 
 ``` r
+
 install.packages("nmbr", repos = c("https://poissonconsulting.r-universe.dev", "https://cloud.r-project.org"))
 ```
 
@@ -20,6 +21,7 @@ To install the latest development version from
 [GitHub](https://github.com/poissonconsulting/nmbr)
 
 ``` r
+
 # install.packages("pak", repos = sprintf("https://r-lib.github.io/p/pak/stable/%s/%s/%s", .Platform$pkgType, R.Version()$os, R.Version()$arch))
 pak::pak("poissonconsulting/nmbr")
 ```
