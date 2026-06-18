@@ -1,5 +1,10 @@
 # Changelog
 
+## nmbr 0.0.0.9002 (2026-06-18)
+
+- Add fledge-bump workflow
+- Add fledge-tag-on-merge workflow
+
 ## nmbr 0.0.0.9001 (2026-02-26)
 
 - Fixing email typo in DESCRIPTION
