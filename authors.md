@@ -15,12 +15,12 @@ Source:
 [`DESCRIPTION`](https://github.com/poissonconsulting/nmbr/blob/main/DESCRIPTION)
 
 Thorley J (2026). *nmbr: Analyses using nimble*. R package version
-0.0.0.9002, <https://github.com/poissonconsulting/nmbr>.
+0.0.0.9003, <https://github.com/poissonconsulting/nmbr>.
 
     @Manual{,
       title = {nmbr: Analyses using nimble},
       author = {Joe Thorley},
       year = {2026},
-      note = {R package version 0.0.0.9002},
+      note = {R package version 0.0.0.9003},
       url = {https://github.com/poissonconsulting/nmbr},
     }

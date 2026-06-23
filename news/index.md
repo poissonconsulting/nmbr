@@ -1,5 +1,9 @@
 # Changelog
 
+## nmbr 0.0.0.9003 (2026-06-23)
+
+- Same as previous version.
+
 ## nmbr 0.0.0.9002 (2026-06-18)
 
 - Add fledge-bump workflow
