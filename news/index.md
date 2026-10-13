@@ -1,5 +1,9 @@
 # Changelog
 
+## nmbr 0.0.0.9006 (2026-10-13)
+
+- Same as previous version.
+
 ## nmbr 0.0.0.9005 (2026-07-15)
 
 - Same as previous version.
